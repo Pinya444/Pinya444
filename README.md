@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ 2023-2027 Comp sci., from New Era University<br>📚 I'm currently learning & willing to learn new stuff <br>🎯 Goals: to make connections & have fun<br>🎲 Fun fact: I am a proud member of INC</p>
+<p align="left">✨ 2023-2027 Comp sci., from New Era University<br>📚 I'm currently learning & willing to learn new stuff <br> <br>🎯 Goals: to make connections & have fun<br>🎲 Fun fact: I am a proud member of INC</p>
 
 ###
 
