@@ -43,11 +43,18 @@
 
 <h2 align="left">🌟 Projects</h2>
 <ul>
-  <li><strong>[Project Name]</strong> – Brief description of the project and the technologies used.</li>
-  <li><strong>[Project Name]</strong> – Highlight impact or key features.</li>
+  <li><strong>Airplane Seats Order Java Simulation</strong> <br>  
+    – Developed a simulation in Java that efficiently manages airplane seating arrangements, focusing on customer preferences and seat availability.  <br> 
+    – Technologies used: Java, OOP principles, and data structures (e.g., arrays, linked lists, for loops).  <br> 
+    – Key outcome: Optimized seat assignment logic to minimize empty spaces and enhance user satisfaction.</li>
+  
+  <li><strong>Electronic Devices Table SQL Simulation</strong>  <br> 
+    – Designed and implemented a database in PostgreSQL to store and manage electronic device inventory, including attributes like brand, price, and features.  <br> 
+    – Utilized SQL queries for data analysis, filtering, and reporting.  <br> 
+    – Key impact: Simplified inventory tracking and improved the accuracy of data retrieval for decision-making processes.</li>
 </ul>
 
-*(Add links to GitHub repositories or hosted projects here.)*
+**
 
 ---
 
